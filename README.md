@@ -1,6 +1,6 @@
 ## Hi, I'm Shantela Noyila
 
-**Aspiring Web Developer** passionate about creating clean, user-friendly, and responsive websites.  
+**Web Developer** passionate about creating clean, user-friendly, and responsive websites.  
 I enjoy turning ideas into functional, visually appealing digital experiences and continuously learning to improve my craft.  
 
 ---
