@@ -1,23 +1,42 @@
-## Hi, I'm Shantela Noyila
+# 👋 Hi, I'm **Shantela Noyila**
 
-**Web Developer** passionate about creating clean, user-friendly, and responsive websites.  
-I enjoy turning ideas into functional, visually appealing digital experiences and continuously learning to improve my craft.  
-
----
-
-### 📫 How to reach me  
-- **📥Email:** [shantelaslie@gmail.com](mailto:shantelaslie@gmail.com)  
-- **🔗LinkedIn:** https://www.linkedin.com/in/shantela-noyila-1864b2212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+**Web Developer** passionate about creating clean, user-friendly, and responsive digital experiences.  
+I enjoy transforming ideas into elegant and functional interfaces while continuously learning and growing in the tech world.
 
 ---
 
-### 🌱 Currently learning  
-- Python  
-- JavaScript  
-- React Native  
-- Node.js  
+### 🌟 About Me
+- 💻 Frontend-focused, but expanding into full-stack development
+- 🎨 Loves combining **design** & **functionality**
+- 🚀 Growth mindset — always learning, always building
 
 ---
 
-💡 *Always eager to explore new tools, frameworks, and creative coding solutions.*  
+### 🔧 Tech Stack & Tools
+- **Languages:** JavaScript, **TypeScript**, Python, HTML, CSS
+- **Frameworks/Libraries:** React, React Native (learning), Node.js (learning)
+- **Databases:** **PostgreSQL**
+- **Version Control:** Git & GitHub
+- **Other:** Responsive Web Design, UI/UX fundamentals
 
+---
+
+### 🌱 Currently Learning
+- TypeScript
+- PostgreSQL (Database & SQL Querying)
+- Python
+- React Native
+- Node.js & Backend Concepts
+
+---
+
+### 📫 Connect With Me
+- **Email:** *shantelaslie@gmail.com*  
+- **LinkedIn:** https://www.linkedin.com/in/shantela-noyila-1864b2212
+
+---
+
+### 💡 Fun Fact
+I believe every great design tells a story — and I love bringing those stories to life with code ✨
+
+---
